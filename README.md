@@ -7,7 +7,7 @@ I developed this project to create accurate predictions for my diploma project 2
 
 
 
-                                            Abstract
+                                               Abstract
 
 Blackjack is a popular gambling game where the aim is to beat the dealer. Dif-
 ferent strategies have been developed over time to maximize the profit. To be a
