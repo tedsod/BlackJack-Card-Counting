@@ -23,7 +23,16 @@ ing cards significantly increased the player’s advantage and proved to be more
 profitable than playing with basic strategy with fixed bets. Betting according
 to the Kelly Criterion gives the lowest house edge, while betting with units in
 regard to current bankroll proved to be the most profitable strategy.
-1
+
+<table width="100%" border="0">
+  <tr>    
+  <td><img src="https://user-images.githubusercontent.com/67868873/151248704-89d9cfca-15c4-400a-8c69-8952f1df57bc.png" width="500" height="250"></td>
+  <td><img src="https://user-images.githubusercontent.com/67868873/151248735-1e91dc11-0a4e-4b58-b52e-9c7df6c01976.png" width="500" height="250"></td>
+  <td><img src="https://user-images.githubusercontent.com/67868873/151248735-1e91dc11-0a4e-4b58-b52e-9c7df6c01976.png" width="500" height="250"></td>
+  </tr>
+</table>
+
+
 
 [Gymnasiearbete.pdf](https://github.com/tedsod/BlackJack-Card-Counting/files/7945614/Gymnasiearbete.pdf)
 
