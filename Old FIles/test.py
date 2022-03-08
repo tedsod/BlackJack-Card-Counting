@@ -1,10 +1,8 @@
-Dick = {"hej":5}
+dict = {"test": 0}
+
 
 def main():
-    global Dick
-    def deck():
-        Dick["hej"] += 5
-        print(Dick)
-    deck()
+    for i in range(5):
+        print(dict["test"])
 
 main()
